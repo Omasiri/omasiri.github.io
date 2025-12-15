@@ -1,0 +1,16 @@
+{
+  "bucketName": "omasiri.com",
+  "region": "us-east-1",
+  "files": [
+    "index.html",
+    "favicon.ico",
+    "robots.txt",
+    "sitemap.xml",
+    "css/**",
+    "js/**"
+  ],
+  "cloudfront": {
+    "distributionId": "E3M5KZN4HSGU9",
+    "paths": ["/*"]
+  }
+}
