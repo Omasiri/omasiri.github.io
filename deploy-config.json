@@ -12,7 +12,7 @@
     "js/**"
   ],
   "cloudfront": {
-    "distributionId": "E3M5KZN4HSGU9",
+    "distributionId": "E19PF2IOKE6ANF",
     "paths": ["/*"]
   }
 }
