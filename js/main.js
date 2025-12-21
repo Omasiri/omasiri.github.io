@@ -108,8 +108,7 @@ style.textContent = `
 document.head.appendChild(style);
 
 // ===== Year in Footer =====
-const footerYear = document.querySelector('.footer p');
-if (footerYear) {
-    const currentYear = new Date().getFullYear();
-    footerYear.innerHTML = footerYear.innerHTML.replace('2024', currentYear);
+const yearSpan = document.getElementById('year');
+if (yearSpan) {
+    yearSpan.textContent = new Date().getFullYear();
 }

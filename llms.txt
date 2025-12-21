@@ -6,12 +6,12 @@ Canonical URL: https://omasiri.com/
 Staff+ Software Engineer with 10+ years of experience designing and scaling distributed systems, re-architecting legacy platforms, and leading technical direction across teams.
 
 ## Key topics
-Distributed systems, microservices, cloud-native architecture, reliability engineering, Kotlin, Java, Redis, AWS, Kafka, Micronaut.
+Distributed systems, microservices, cloud-native architecture, reliability engineering, Kotlin, Java, Redis, AWS, Kafka, Micronaut, AI/ML, LLM integration, RAG systems.
 
 ## Selected work
 Chart Synergy (EHR platform): https://www.chartsynergy.com/
 Clarity (AI ticket intake triage + routing): https://www.chartsynergy.com/clarity.html
-Udemy course (Kotlin + Micronaut): https://www.udemy.com/course/introduction-to-backend-development-with-kotlin-micronaut/?couponCode=CM251215G1
+Udemy course (Kotlin + Micronaut): https://www.udemy.com/course/introduction-to-backend-development-with-kotlin-micronaut/
 
 ## Patents
 US11966698B2: https://patents.google.com/patent/US11966698B2/en
