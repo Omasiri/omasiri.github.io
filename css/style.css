@@ -288,6 +288,14 @@ img {
     margin-bottom: 1.5rem;
 }
 
+.hero-alias {
+    font-size: 1rem;
+    color: var(--color-text-light);
+    font-weight: 500;
+    margin-top: -0.25rem;
+    margin-bottom: 0.75rem;
+}
+
 .hero-description {
     font-size: 1.125rem;
     color: var(--color-text-light);
