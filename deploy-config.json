@@ -6,6 +6,8 @@
     "favicon.ico",
     "robots.txt",
     "sitemap.xml",
+    "llms.txt",
+    "og-image.svg",
     "css/**",
     "js/**"
   ],

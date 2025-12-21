@@ -1,0 +1,26 @@
+# Joseph O. Udeinya
+
+Canonical URL: https://omasiri.com/
+
+## Summary
+Staff+ Software Engineer with 10+ years of experience designing and scaling distributed systems, re-architecting legacy platforms, and leading technical direction across teams.
+
+## Key topics
+Distributed systems, microservices, cloud-native architecture, reliability engineering, Kotlin, Java, Redis, AWS, Kafka, Micronaut.
+
+## Selected work
+Chart Synergy (EHR platform): https://www.chartsynergy.com/
+Udemy course (Kotlin + Micronaut): https://www.udemy.com/course/introduction-to-backend-development-with-kotlin-micronaut/?couponCode=CM251215G1
+
+## Patents
+US11966698B2: https://patents.google.com/patent/US11966698B2/en
+US10574814B2: https://patents.google.com/patent/US10574814B2/en
+
+## Profiles
+LinkedIn: https://linkedin.com/in/omasiri
+Twitter/X: https://twitter.com/Mr_omasiri
+
+## Contact
+Email: omasiri@gmail.com
+Phone: +1-404-913-1404
+Location: Atlanta, GA
